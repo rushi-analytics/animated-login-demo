@@ -13,7 +13,7 @@ This project is created for **client demonstration purposes** and works smoothly
 
 ## 🔐 Demo Credentials
 Use the following credentials to see the success animation and sound:
-
+https://rushi-analytics.github.io/animated-login-demo/
 - **Username:** `me`
 - **Password:** `123`
 
